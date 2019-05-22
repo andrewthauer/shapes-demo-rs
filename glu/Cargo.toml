@@ -1,0 +1,12 @@
+[package]
+name = "glu"
+version = "0.1.0"
+authors = ["Andrew Thauer"]
+edition = "2018"
+
+[dependencies]
+gl = "0.12.0"
+glfw = "0.28.0"
+
+[build-dependencies]
+gl_generator = "0.11.0"

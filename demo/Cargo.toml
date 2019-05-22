@@ -1,0 +1,8 @@
+[package]
+name = "demo"
+version = "0.1.0"
+authors = ["Andrew Thauer"]
+edition = "2018"
+
+[dependencies]
+glu = { path = "../glu" }
